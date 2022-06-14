@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python & React.
+- 🔭 I’m currently working on Silk Innovation
+- 🌱 I’m currently learning Php & Laravel.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with velocity documentation.
 - 💬 Ask me about Flutter or any tech related web
