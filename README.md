@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m currently working on Silk Innovation
-- 🌱 I’m currently learning Php & Laravel.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with velocity documentation.
-- 💬 Ask me about Flutter or any tech related web
+- 💬 Ask me about PHP or any tech related web
 - 📫 How to reach me: [Twitter-@rudra_ramesh_](https://twitter.com/rudra_ramesh_) , [Instagram-@rudra_ramesh_](instagram.com/rudra.ramesh_/) , [Linkedin - @ruder-ramesh](https://www.linkedin.com/in/rudra-ramesh/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i spand almost 4 hours listening to song every day.
