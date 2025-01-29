@@ -68,7 +68,7 @@
   <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rudraramesh&bg_color=11030b&color=5dce12&line=d33c3c&point=ece4e4&area=true&hide_border=true)]
+[![RudraRamesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rudraramesh&bg_color=11030b&color=5dce12&line=d33c3c&point=ece4e4&area=true&hide_border=true)]
 
 
 
