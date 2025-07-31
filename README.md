@@ -18,7 +18,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Ramesh Baduwal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraramesh&label=Profile%20views&color=0e75b6&style=flat" alt="rudraramesh" /> </p>
+<p align="left" hidden> <img src="https://komarev.com/ghpvc/?username=rudraramesh&label=Profile%20views&color=0e75b6&style=flat" alt="rudraramesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudraramesh" alt="rudraramesh" /></a> </p>
 
