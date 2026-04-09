@@ -1,105 +1,240 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ramesh%20Baduwal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Nepal%20🇳🇵&descAlignY=55&descSize=18" width="100%"/>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rudra-ramesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC-eZvhv4pEp5qaczpL_1AcA/videos">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/RudraRamesh01">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
+<div align="center">
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Ramesh Baduwal</h1>
-
-<!--<p align="left" hidden style="display: none;"> <img style="display: none;" src="https://komarev.com/ghpvc/?username=rudraramesh&label=Profile%20views&color=0e75b6&style=flat" alt="rudraramesh" /> </p> -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudraramesh" alt="rudraramesh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rudraramesh01" target="blank"><img src="https://img.shields.io/twitter/follow/rudraramesh01?logo=twitter&style=for-the-badge" alt="rudraramesh01" /></a> </p>
-
-
-- 🔭 I’m currently working on [Bank Project](https://accountx.jhattai.com/admin/login)
-
-- 🌱 I’m currently learning **Machine Learning.**
-
-- 👯 I’m looking to collaborate on **Youtube**
-
-- 🤝 I’m looking for help with **velocity documentation.**
-
-- 👨‍💻 All of my projects are available at [https://rameshbaduwal.com.np/portfolio](https://rameshbaduwal.com.np/portfolio)
-
-- 📝 I regularly write articles on [https://rameshbaduwal.com.np/blogs](https://rameshbaduwal.com.np/blogs)
-
-- 💬 Ask me about **Php, Laravel,Python,Django,MySQL,Git,Docker,Linux and Networking**
-
-- 📫 How to reach me **contact@rameshbaduwal.com.np**
-
-- 📄 Know about my experiences [https://rameshbaduwal.com.np/storage/basic-infos/September2024/HRXVmuKTy1f02uYCi4Vb.pdf](https://rameshbaduwal.com.np/storage/basic-infos/September2024/HRXVmuKTy1f02uYCi4Vb.pdf)
-
-- ⚡ Fun fact **i spand almost 4 hours listening to song every day.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Laravel+%7C+Django+%7C+React+%7C+Spring+Boot+Developer;4%2B+Years+%7C+5%2B+Countries+%7C+Real+Production+Systems;Senior+Full-Stack+Dev+%40+BizEngine;ECL+%7C+OPRisk+%7C+eKYC+%7C+Fintech+Systems;UI%2FUX+Designer+%7C+Docker+%7C+DevOps+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/rudraramesh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rudra Ramesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rudraramesh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rameshbaduwal.com.np-0EA5E9?style=for-the-badge)](https://rameshbaduwal.com.np)
+[![Email](https://img.shields.io/badge/📧_Email-contact@rameshbaduwal.com.np-EA4335?style=for-the-badge)](mailto:contact@rameshbaduwal.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-rudraramesh-181717?style=for-the-badge&logo=github)](https://github.com/rudraramesh)
+[![Location](https://img.shields.io/badge/📍-Kathmandu,_Nepal-FF6B6B?style=for-the-badge)](https://maps.google.com/?q=Kathmandu,Nepal)
 
-## 📊 My Github Stats
-<br/>
-    <a href="https://github.com/rudraramesh/github-readme-stats"><img alt="Rudra Ramesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rudraramesh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/rudraramesh/github-readme-stats"><img alt="Rudra Ramesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraramesh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=css,scss,html,blade" /></a>
-  <br/>
-  
-  <br/>
-<br/>
+</div>
 
-[![RudraRamesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rudraramesh&bg_color=11030b&color=5dce12&line=d33c3c&point=ece4e4&area=true&hide_border=true)]
+---
 
+## 👨‍💻 About Me
 
+```php
+<?php
 
+class RameshBaduwal {
 
-<br/>
-<br/>
+    public string $aka         = "Rudra Ramesh";
+    public string $location    = "Kathmandu, Nepal 🏔️";
+    public string $email       = "contact@rameshbaduwal.com.np";
+    public string $portfolio   = "https://rameshbaduwal.com.np";
+    public string $experience  = "4+ years across 5+ countries";
+    public string $currentRole = "Senior Full Stack Developer @ BizEngine";
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/baduwalramp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baduwalramp" /></a><a href="https://ko-fi.com/rudraramesh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rudraramesh" /></a></p><br><br>
+    public array $education = [
+        "BCA (Bachelor of Computer Applications)"  => "Tribhuvan University — 4.30/5",
+        "BBS (Bachelor of Business Studies)"       => "Tribhuvan University — 4.50/5",
+        "Diploma in Software Engineering"          => "NCC Education UK       — 4.80/5",
+    ];
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudraramesh&show_icons=true&locale=en&layout=compact" alt="rudraramesh" /></p>
+    public array $services = [
+        "💻 Full-Stack Web Development",
+        "🎨 UI/UX Design (Figma, Adobe XD)",
+        "📊 Business Strategy & Digital Consulting",
+        "🐳 DevOps, Docker & Linux Deployment",
+    ];
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudraramesh&show_icons=true&locale=en" alt="rudraramesh" /></p>
+    public string $philosophy = "Build with purpose. Design with empathy. Ship with confidence.";
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudraramesh&" alt="rudraramesh" /></p> -->
+---
 
+## 🏢 Work Experience
 
-## Connect with me:
-<p align="left">
-<a href="https://codepen.io/rudraramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rudraramesh" height="30" width="40" /></a>
-<a href="https://dev.to/rudraramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rudraramesh" height="30" width="40" /></a>
-<a href="https://twitter.com/rudraramesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudraramesh01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramesh-baduwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh-baduwal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17797041/rudra-ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17797041/rudra-ramesh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/rudraramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rudraramesh" height="30" width="40" /></a>
-<a href="https://kaggle.com/rudraramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rudraramesh" height="30" width="40" /></a>
-<a href="https://fb.com/rameshbaduwal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rameshbaduwal07" height="30" width="40" /></a>
-<a href="https://instagram.com/ramesh_baduwal3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramesh_baduwal3" height="30" width="40" /></a>
-<a href="https://medium.com/@rudra13test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rudra13test" height="30" width="40" /></a>
-<a href="/https://dashboard.rss.com/account/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/account/" height="30" width="40" /></a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120"><b>2025 – Now</b></td>
+<td><b>Senior Full Stack Developer</b> — BizEngine Consulting<br/><sub>Leading production-grade systems, multi-database architecture & DevOps pipelines</sub></td>
+</tr>
+<tr>
+<td align="center"><b>2022 – 2025</b></td>
+<td><b>Full Stack Developer</b> — Silk Innovation<br/><sub>Built and delivered 10+ client projects across Laravel, Django, React, and more</sub></td>
+</tr>
+<tr>
+<td align="center"><b>2021 – 2022</b></td>
+<td><b>Data Entry Specialist</b> — Department of Land Management<br/><sub>Land data processing, record-keeping & operational workflow management</sub></td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🔧 Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎨 Design
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech | Client | Live |
+|--------|------|--------|------|
+| 📊 **ECL System** *(Expected Credit Loss)* | Laravel · FastAPI · React · MySQL · Microservices | Finance Sector | Private |
+| ⚠️ **OPRisk** *(Operational Risk Mgmt)* | Java Spring Boot · React · PostgreSQL · Docker | BizEngine | Private |
+| 🔄 **OPRM** *(Op. Risk & Process Mgmt)* | Java Spring Boot · React | BizEngine | *In Progress* |
+| 🪪 **eKYC System** *(Online KYC)* | Laravel · React · PostgreSQL · Docker | Finance Sector | Private |
+| 🏦 **Online Account Opening System** | Laravel · MySQL · SQL Server · PostgreSQL · Docker | ICFC Bank | [online.icfcbank.com](https://online.icfcbank.com/) |
+| 🏔️ **RR Adventure Trekking** | Laravel · PHP · JS · Bootstrap | RR Trek | [rrtrek.com.np](https://rrtrek.com.np/) |
+| 🎓 **Academy of Capacity Dev.** | Laravel · PHP · JS | ACDN | [aocdnepal.com](http://aocdnepal.com/) |
+| ⚽ **Bhakundo Football Blog** | Django · Python · JS | Bhakundo | [bhakundo.com.np](https://bhakundo.com.np/) |
+| 🛒 **Ecommerce + Payment Integration** | Django · Python | Open Source | [GitHub](https://github.com/rudraramesh/django-project-ecommerce) |
+| 🏠 **Rental Property Management** | Laravel 13 · React 19 · Sanctum · shadcn/ui | BCA Final Project | Academic |
+| 🤖 **AI Image Generator Package** | Laravel · OpenAI DALL·E · Stable Diffusion | Open Source | [GitHub](https://github.com/rudraramesh/ai-image-generator) |
+</div>
+
+---
+
+## 💼 Clients I've Worked With
+
+<div align="center">
+
+`ICFC Bank` &nbsp;·&nbsp; `ICFC Finance` &nbsp;·&nbsp; `Nepal Finance` &nbsp;·&nbsp; `Janaki Finance` &nbsp;·&nbsp; `Multipurpose Finance` &nbsp;·&nbsp; `Progressive Finance` &nbsp;·&nbsp; `Silk Innovation` &nbsp;·&nbsp; `BizEngine Consulting` &nbsp;·&nbsp; `Temple Tree Restaurant` &nbsp;·&nbsp; `Xabit Analytics` &nbsp;·&nbsp; `Barahi Hydropower` &nbsp;·&nbsp; `Samsara Remit` &nbsp;·&nbsp; `NetWorth TaxNetworks` &nbsp;·&nbsp; `Bhakundo` &nbsp;·&nbsp; `RR Adventure Trek` &nbsp;·&nbsp; `Easy Ecoware` &nbsp;·&nbsp; `Cetra Con` &nbsp;·&nbsp; `Mini Soft` &nbsp;·&nbsp; `Shangrila Vives`
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudraramesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraramesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraramesh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌱 Currently Building
+
+```yaml
+role: Senior Full Stack Developer @ BizEngine
+status: actively building
+
+projects:
+  - name: "OPRM (Operational Risk & Process Management)"
+    stack: [Java Spring Boot, React]
+    status: "Active development"
+
+  - name: "ECL (Expected Credit Loss)"
+    stack: [Laravel, FastAPI, React, MySQL]
+    architecture: "Microservices"
+    highlight: "Laravel + FastAPI hybrid backend with React frontend"
+
+  - name: "OPRisk (Operational Risk Management)"
+    stack: [Laravel, React, MySQL, Docker]
+    highlight: "Full-featured risk management platform"
+
+  - name: "CI/CD Pipeline"
+    stack: [GitHub Actions, Docker, SSH]
+    tenants: [icfc, biz]
+    goal: "Multi-tenant parallel deployment automation"
+
+learning_next:
+  - Advanced Spring Boot microservices
+  - Cloud-native DevOps
+  - Financial system compliance & architecture
+```
+
+---
+
+## 📝 Latest Blog Posts
+
+- 📘 [Mastering SQL Joins: A Comprehensive Guide for Developers](https://rameshbaduwal.com.np/blogs)
+- 🔐 [How To Create a New User and Grant Permissions in MySQL](https://rameshbaduwal.com.np/blogs)
+- 🐍 [Mastering Django: A Complete Guide for Web Developers](https://rameshbaduwal.com.np/blogs)
+- 🚀 [Top Laravel Tips for Faster Development](https://rameshbaduwal.com.np/blogs)
+- 🔗 [Building RESTful APIs with Laravel: A Comprehensive Guide](https://rameshbaduwal.com.np/blogs)
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> *"Build with purpose. Design with empathy. Ship with confidence."*
+
+</div>
+
+---
+
+## 📫 Let's Work Together
+
+<div align="center">
+
+I'm available for **freelance projects**, **collaborations**, and **consulting**.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-rameshbaduwal.com.np-0EA5E9?style=for-the-badge)](https://rameshbaduwal.com.np)
+[![Email](https://img.shields.io/badge/📧_Email_Me-contact@rameshbaduwal.com.np-EA4335?style=for-the-badge)](mailto:contact@rameshbaduwal.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-rudraramesh-181717?style=for-the-badge&logo=github)](https://github.com/rudraramesh)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>© 2026 Ramesh Baduwal (Rudra Ramesh) • Kathmandu, Nepal 🇳🇵</sub>
+
+</div>
