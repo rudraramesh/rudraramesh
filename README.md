@@ -217,11 +217,11 @@ learning_next:
 
 ---
 
-## 📫 Let's Work Together
-
+<!--## 📫 Let's Work Together -->
+## 📫 Let's Connect With
 <div align="center">
 
-I'm available for **freelance projects**, **collaborations**, and **consulting**.
+<!--I'm available for **freelance projects**, **collaborations**, and **consulting**.-->
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-rameshbaduwal.com.np-0EA5E9?style=for-the-badge)](https://rameshbaduwal.com.np)
 [![Email](https://img.shields.io/badge/📧_Email_Me-contact@rameshbaduwal.com.np-EA4335?style=for-the-badge)](mailto:contact@rameshbaduwal.com.np)
