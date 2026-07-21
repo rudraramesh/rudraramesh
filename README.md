@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramesh%20Baduwal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Software%20Engineer%20%7C%20Laravel%20%26%20Spring%20Boot%20%7C%20Nepal%20🇳🇵&descAlignY=55&descSize=16" width="100%"/>
+# Ramesh Baduwal
+### Backend Software Engineer | Laravel & Spring Boot | Nepal 🇳🇵
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Laravel+%7C+Spring+Boot+%7C+Backend+Engineer;4.5%2B+Years+%7C+Banking+%26+Fintech+Systems;Sole+Backend+Owner+%40+BizEngine+Consulting;OpRisk+%7C+ECL+%7C+eKYC+%7C+DAS+%7C+Budget+Systems;Cut+Login+Latency+20x+%2812s+%E2%86%92+600ms%29)](https://git.io/typing-svg)
+**Laravel | Spring Boot | Backend Engineer**
+**4.5+ years | Banking & Fintech Systems**
+**Sole Backend Owner @ BizEngine Consulting**
+**OpRisk | ECL | eKYC | DAS | Budget Systems**
+**Cut Login Latency 20x (12s → 600ms)**
 
 <br/>
 
@@ -46,7 +47,7 @@ class RameshBaduwal {
         "🎨 Supporting Frontend (React/Next.js) & UI/UX (Figma, Adobe XD)",
     ];
 
-    public string $philosophy = "Own it end to end — from schema to deployed, monitored service.";
+    public string $philosophy = "Own it end to end, from schema to deployed, monitored service.";
 }
 ```
 
@@ -145,22 +146,9 @@ class RameshBaduwal {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 About My GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudraramesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraramesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraramesh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
-> Most of my recent production work is in private repositories due to client confidentiality (banking and financial-services platforms). Public repos here are personal packages and side projects.
+Most of my recent production work is in private repositories due to client confidentiality (banking and financial-services platforms). Public repos here are personal packages and side projects.
 
 ---
 
@@ -168,7 +156,7 @@ class RameshBaduwal {
 
 <div align="center">
 
-> *"Own it end to end — from schema to deployed, monitored service."*
+> *"Own it end to end, from schema to deployed, monitored service."*
 
 </div>
 
@@ -184,12 +172,6 @@ class RameshBaduwal {
 
 </div>
 
----
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 <sub>© 2026 Ramesh Baduwal (Rudra Ramesh) • Kathmandu, Nepal 🇳🇵</sub>
-
 </div>
